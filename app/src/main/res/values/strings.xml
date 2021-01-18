@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="btn_vuelta">Vuelta</string>
+    <string name="btn_parar">Parar</string>
+    <string name="btn_total_vueltas">Calcular Total Vueltas</string>
+    <string name="lbl_inicioVuelta">00:00:00</string>
+
+</resources>
